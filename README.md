@@ -35,11 +35,9 @@ Plateforme Collaborative de Partage de Ressources Open Source
 - [Structure du projet](#-structure-du-projet)
 - [Base de données](#-base-de-données)
 - [Utilisation](#-utilisation)
-- [Captures d'écran](#-captures-décran)
 - [Tests](#-tests)
 - [Déploiement](#-déploiement)
 - [Contribuer](#-contribuer)
-- [Auteurs](#-auteurs)
 - [Licence](#-licence)
 
 ---
